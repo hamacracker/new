@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://archive.org/download/gta-mod-2.2-1682010183/GTA%20MOD_2.2_1682010183.ipa</string>
+					<string>https://archive.org/download/gta-mod-2.2-1683222499/GTA%20MOD_2.2_1683222499.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.rockstargames.gta3sahd22</string>
+				<string>com.rockstargames.gta3sahd12</string>
 				<key>bundle-version</key>
 				<string>438</string>
 				<key>kind</key>
